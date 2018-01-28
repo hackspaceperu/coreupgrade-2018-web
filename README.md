@@ -48,4 +48,4 @@ Si deseas empezar tu camino ahora, aqu√≠ es donde todo comienza! Una introducci√
 ## Developed by
 
 * Isabel Luna, Developer @HackSpacePeru
-* Inspirado en TheOdinProject 
+* Inspirado en TheOdinProject. 
