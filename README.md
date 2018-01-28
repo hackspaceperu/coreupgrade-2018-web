@@ -24,10 +24,10 @@ Si deseas empezar tu camino ahora, aqu√≠ es donde todo comienza! Una introducci√
 
 **Semana 2**
 
-+ [Iniciando con CSS][1]
++ Iniciando con CSS
     * Incluir estilos CSS
     * Selectores, pseudoclase y pseudoelementos.
-+ [Reto 2.][2]
++ Reto 2.
 
 
 [1]: sem2_introcss.md
