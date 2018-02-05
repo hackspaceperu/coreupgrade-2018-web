@@ -25,13 +25,15 @@ Si deseas empezar tu camino ahora, aqu√≠ es donde todo comienza! Una introducci√
 **Semana 2**
 
 + Iniciando con CSS
-    * Incluir estilos CSS
-    * Selectores, pseudoclase y pseudoelementos.
-+ Reto 2.
+    * [Incluir estilos CSS.][5]
+    * [Concepto de Cajas.][6]
+    * [Selectores, pseudoclase y pseudoelementos.][7]
++ [Reto 2.][8]
 
-
-[1]: sem2_introcss.md
-[2]: sem2_reto2.md
+[5]: sem2_introduccion.md
+[6]: sem2_cajas.md
+[7]: sem2_selectores.md
+[8]: sem2_reto2.md
 
 **Semana 3**
 
