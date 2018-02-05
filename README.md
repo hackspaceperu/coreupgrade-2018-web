@@ -10,7 +10,7 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 
 **Semana 1**
 
-+ [Conceptos básicos.][1] 
++ [Conceptos básicos.][1]
 + [Configurando entorno de trabajo.][2]
 + [Iniciando con HTML][3]
     * Estructura básica de una web.
@@ -35,17 +35,32 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 
 **Semana 3**
 
++ [Introducción a Node.js][1]
++ [Módulos][2]
++ [Sistema de Archivos][3]
++ [Reto 3][4]
+
+[1]: sem3_introduccion.md
+[2]: sem3_modulos.md
+[3]: sem3_archivos.md
+[4]: sem3_reto3.md
+
 **Semana 4**
 
-        Referencias bibliográficas
-            * https://www.theodinproject.com/courses/html5-and-css3
-            * https://developer.mozilla.org/es/docs/Learn/HTML
-            * https://www.theodinproject.com/courses/web-development-101
-            * https://www.bitdegree.org/learn/web-fundamentals/
++ [Web Server][1]
++ [Express][2]
++ [Node & MongoDB][3]
++ [Reto 4][4]
+
+Referencias bibliográficas
+    * https://www.theodinproject.com/courses/html5-and-css3
+    * https://developer.mozilla.org/es/docs/Learn/HTML
+    * https://www.theodinproject.com/courses/web-development-101
+    * https://www.bitdegree.org/learn/web-fundamentals/
 
 
 
 ## Developed by
 
 * Isabel Luna, Developer @HackSpacePeru
-* Inspirado en TheOdinProject. 
+* Inspirado en TheOdinProject.
