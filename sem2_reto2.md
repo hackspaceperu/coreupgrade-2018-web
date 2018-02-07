@@ -34,7 +34,7 @@ Crea la carpeta `reto2-web` junto con tu archivo `index.html`
 
 3. Luego haz la barra de navegación en la parte superior, primero construye el contenido y luego intenta posicionarlo. Echa un vistazo a  cómo construir una barra de navegación CSS horizontal si estás perdido.
 
-4.Finalmente, coloque el pie de página, que debería ser muy similar a la barra de navegación superior.
+4. Finalmente, coloca el pie de página, que debería ser muy similar a la barra de navegación superior.
 
 5. En general, haz todo lo que puedas antes de confiar en las herramientas de desarrollador (o ver el código fuente de la página) para ayudarte.
 
