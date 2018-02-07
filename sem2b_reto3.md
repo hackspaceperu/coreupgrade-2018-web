@@ -12,7 +12,7 @@ node server.js add --name='Lucas' --number=915271232
 
 
 ## IMPORTANTE
-Debes usar la librería yargs, si deseas saber como usar yargs puedes ver el siguiente [enlace](https://davidwalsh.name/nodejs-arguments-yargs).
+Debes usar la librería yargs, si deseas saber como usar yargs puedes ver el siguiente [enlace](https://github.com/yargs/yargs/blob/master/docs/examples.md).
 
 Luego debes crear un modulo llamado contact.js que lea un archivo llamado directorio.json y además este modulo debe ser capaz de añadir, leer, listar y borrar un contacto y su respectivo numero de telefono como si fuera un objeto:
 
