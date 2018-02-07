@@ -74,3 +74,9 @@ Al final tu proyecto debe quedar estructurado de la siguiente manera:
     * contact.js
     * server.js
     * directorio.json
+
+### Entrega tu reto
+
+Finalmente solo debes enviar el link de tu repositorio con la solución de este reto mediante el formulario que está disponible cuando te logueas en el [CoreUpgrade](https://www.hackspace.la).
+
+![Clic en Desarrollo Web](img/send-reto1.png)
