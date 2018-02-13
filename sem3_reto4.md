@@ -5,6 +5,7 @@
 ![Maquetación General](imagen1.gif)
 
 Esta maquetación, como recordarás, es de una sola página de un blog. Además dentro de cada <code>&lt;article&gt;</code>, debes de incluir la siguiente estructura:
+
 ![Dentro del artículo](imagen2.png)
 
 Ahora sí preocúpate un poco más por el diseño y que quede bonito.
