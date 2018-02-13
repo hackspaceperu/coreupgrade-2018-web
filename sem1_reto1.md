@@ -42,7 +42,8 @@ Si deseas compartir este proyecto, incluya un enlace en el archivo README.md  pa
 
 Si tienes problemas, consulta:
 * Otra [guía más especializada de Git](https://git-scm.com/book/es/v1/Empezando) o
-Nota: Todos los comandos de Git deben ejecutarse desde la carpeta de su proyecto (¿te olvidaste de ingresar a la carpeta reto1-web?)
+
+>Nota: Todos los comandos de Git deben ejecutarse desde la carpeta de su proyecto (¿te olvidaste de ingresar a la carpeta reto1-web?)
 
 Cuando estés construyendo tu proyecto, probablemente terminarás haciendo varios ciclos de `git add` + `git commit` antes de estar listo para subirlo a Github con `git push origin master`.
 
