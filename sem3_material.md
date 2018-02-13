@@ -9,8 +9,8 @@ Puedes encontrar más información sobre Material Design en el siguiente link: [
 
 A continuación un ejemplo gráfico de lo que es un ejemplo de lo que es Material Design:
 
-<div class="video embed-responsive embed-responsive-16by9">
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/U3CGMyjzlvM?showinfo=0&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
-</div>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=U3CGMyjzlvM
+" target="_blank"><img src="http://img.youtube.com/vi/U3CGMyjzlvM/0.jpg" 
+alt="Material Design" width="240" height="180" border="10" /></a>
 
 [Continuar a la siguiente sección](sem3_materialize.md)
