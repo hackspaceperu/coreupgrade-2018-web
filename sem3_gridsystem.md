@@ -116,8 +116,8 @@ Este es un primer ejemplo bastante simple para que puedas ir entendiendo cómo s
 
 A continuación un video para que pueda profundizar un poco más:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=f563saeMC10
-" target="_blank"><img src="http://img.youtube.com/vi/f563saeMC10/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b2woBkF_iVw
+" target="_blank"><img src="http://img.youtube.com/vi/b2woBkF_iVw/0.jpg" 
 alt="Grid System" width="240" height="180" border="10" /></a>
 
 

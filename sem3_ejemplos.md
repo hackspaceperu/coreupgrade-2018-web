@@ -118,8 +118,8 @@ Ya con materialize configurado, puedes utilizar cualquier componente de este fra
 ### CSS Helpers
 [Documentación y ejemplos](http://materializecss.com/helpers.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1tGYqLiJuY
-" target="_blank"><img src="http://img.youtube.com/vi/1tGYqLiJuY/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Y_Z2OhK_N2w&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/Y_Z2OhK_N2w/0.jpg" 
 alt="Helpers" width="240" height="180" border="10" /></a>
 
 
@@ -127,31 +127,37 @@ alt="Helpers" width="240" height="180" border="10" /></a>
 
 [Documentación y ejemplos](http://materializecss.com/media-css.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ccMOjmt4o9g
-" target="_blank"><img src="http://img.youtube.com/vi/ccMOjmt4o9g/0.jpg" 
+Parte 1:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=eacIJGwi8xQ&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/eacIJGwi8xQ/0.jpg" 
+alt="Imagenes y Videos" width="240" height="180" border="10" /></a>
+
+Parte 2:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oAcHF7CiRhA&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/oAcHF7CiRhA/0.jpg" 
 alt="Imagenes y Videos" width="240" height="180" border="10" /></a>
 
 
 ### CSS: Sombras
 [Documentación y ejemplos](http://materializecss.com/shadow.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=5XUcF3qZdKM
-" target="_blank"><img src="http://img.youtube.com/vi/5XUcF3qZdKM/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tJ9ZIF7-Dkk&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/tJ9ZIF7-Dkk/0.jpg" 
 alt="Sombras" width="240" height="180" border="10" /></a>
 
 
 ### Tablas
 [Documentación y ejemplos](http://materializecss.com/table.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=OfRpj6t9cXc
-" target="_blank"><img src="http://img.youtube.com/vi/OfRpj6t9cXc/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YQ-itGMWXuo&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/YQ-itGMWXuo/0.jpg" 
 alt="Tablas" width="240" height="180" border="10" /></a>                     
 
 
 ### Tipografía
 [Documentación y ejemplos](http://materializecss.com/typography.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kzfF6ZhTVEE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kzfF6ZhTVEE&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/kzfF6ZhTVEE/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -159,15 +165,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Íconos
 [Documentación y ejemplos](http://materializecss.com/icons.html).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=J6iQHHBbsKI
-" target="_blank"><img src="http://img.youtube.com/vi/J6iQHHBbsKI/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=hFowBrHjOGk&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/hFowBrHjOGk/0.jpg" 
 alt="Íconos" width="240" height="180" border="10" /></a>
 
 
 ### Componentes: Tarjetas
 [Documentación y ejemplos](http://materializecss.com/cards.html).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_ghV6QA1FNw
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_ghV6QA1FNw&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/_ghV6QA1FNw/0.jpg" 
 alt="Tarjetas" width="240" height="180" border="10" /></a>           
 
@@ -175,7 +181,7 @@ alt="Tarjetas" width="240" height="180" border="10" /></a>
 ### Componentes: Footer
 [Documentación y ejemplos](http://materializecss.com/footer.html).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DMbnVw5YoWc
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DMbnVw5YoWc&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/DMbnVw5YoWc/0.jpg" 
 alt="Footer" width="240" height="180" border="10" /></a>
 
@@ -183,15 +189,15 @@ alt="Footer" width="240" height="180" border="10" /></a>
 ### Componentes: Barra de Navegacción (Navbar)
 [Documentación y ejemplos](http://materializecss.com/navbar.html).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=e7EJcnDJNpo
-" target="_blank"><img src="http://img.youtube.com/vi/e7EJcnDJNpo/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=14gOldsVACc&feature=youtu.be&t=6s
+" target="_blank"><img src="http://img.youtube.com/vi/14gOldsVACc/0.jpg" 
 alt="Navbar" width="240" height="180" border="10" /></a>              
 
 
 ### Componentes: Formularios
 [Documentación y ejemplos](http://materializecss.com/forms.html).
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ykx19ugkvi0w
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ykx19ugkvi0w&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/kx19ugkvi0w/0.jpg" 
 alt="Formularios" width="240" height="180" border="10" /></a>
 
@@ -199,7 +205,7 @@ alt="Formularios" width="240" height="180" border="10" /></a>
 ### Componentes: Botones
 [Documentación y ejemplos](http://materializecss.com/buttons.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YQrr7GGV4uVE
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YQrr7GGV4uVE&feature=youtu.be&t=6s
 " target="_blank"><img src="http://img.youtube.com/vi/Qrr7GGV4uVE/0.jpg" 
 alt="Botones" width="240" height="180" border="10" /></a>
 
@@ -207,7 +213,7 @@ alt="Botones" width="240" height="180" border="10" /></a>
 ### Componentes: Colecciones, Listas
 [Documentación y ejemplos](http://materializecss.com/collections.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YIZ47U2o9-k
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YIZ47U2o9-k&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/YIZ47U2o9-k/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -215,7 +221,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ### Componentes: Insignias (Badges)
 [Documentación y ejemplos](http://materializecss.com/badges.html)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=-FcQk0sAty4
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-FcQk0sAty4&feature=youtu.be&t=18s
 " target="_blank"><img src="http://img.youtube.com/vi/-FcQk0sAty4/0.jpg" 
 alt="Insignias" width="240" height="180" border="10" /></a>
 
