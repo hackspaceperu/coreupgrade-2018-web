@@ -115,8 +115,10 @@ Verás que los <code>&lt;div class=&quot;col s12 m4&quot;&gt;</code> las clases 
 Este es un primer ejemplo bastante simple para que puedas ir entendiendo cómo se usa el Grid System de 12 columnas de Materialize.
 
 A continuación un video para que pueda profundizar un poco más:
-<div class="video embed-responsive embed-responsive-16by9">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/f563saeMC10?showinfo=0&iv_load_policy=3" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=f563saeMC10
+" target="_blank"><img src="http://img.youtube.com/vi/f563saeMC10/0.jpg" 
+alt="Grid System" width="240" height="180" border="10" /></a>
+
 
 [Continuar a la siguiente sección](sem3_ejemplos.md)
