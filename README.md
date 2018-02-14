@@ -61,22 +61,13 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 [17]: sem3_reto4.md
 
 #### Backend
-+ [Web Server][13]
-+ [Express][14]
-+ [Node & MongoDB][15]
-+ [Reto 3 - Backend.][16]
++ [Web Server][18]
++ [Express][19]
++ Node & MongoDB
++ Reto 3 - Backend.
 
-[18]: sem3b_webserver.md
-[19]: sem3b_express.md
-[20]: sem3b_mongo.md
-[21]: sem3b_reto5.md
-
-### Semana 4
-
-+ [Web Server][1]
-+ [Express][2]
-+ [Node & MongoDB][3]
-+ [Reto 4][4]
+[18]: sem4_webserver.md
+[19]: sem4_express.md
 
 Referencias bibliográficas
     * https://www.theodinproject.com/courses/html5-and-css3
