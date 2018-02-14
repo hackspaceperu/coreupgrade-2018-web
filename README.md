@@ -76,7 +76,8 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 [22]: arrays.md
 
 
-Referencias bibliográficas
+
+#### Referencias bibliográficas
     * https://www.theodinproject.com/courses/html5-and-css3
     * https://developer.mozilla.org/es/docs/Learn/HTML
     * https://www.theodinproject.com/courses/web-development-101
