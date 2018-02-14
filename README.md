@@ -69,6 +69,13 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 [18]: sem4_webserver.md
 [19]: sem4_express.md
 
+
+#### Recursos Adicionales
+[20]: yargs.md
+[21]: fs.md
+[22]: arrays.md
+
+
 Referencias bibliográficas
     * https://www.theodinproject.com/courses/html5-and-css3
     * https://developer.mozilla.org/es/docs/Learn/HTML
@@ -80,4 +87,5 @@ Referencias bibliográficas
 ## Developed by
 
 * Isabel Luna, Developer @HackSpacePeru
+* Gerson Garrido, Head Trainer @HackSpacePeru
 * Inspirado en TheOdinProject.
