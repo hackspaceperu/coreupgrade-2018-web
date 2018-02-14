@@ -4,7 +4,7 @@ En esta primera parte vamos a hablar un poco de los arreglos, objetos en javascr
 
 Un array es una colección de valores, donde cada valor tiene una posición dentro del array:
 
-<p align-text="center">
+<p align="center">
 <img src="https://www.javatpoint.com/images/core/array.gif">
 </p>
 
@@ -199,7 +199,7 @@ console.log(resultado); // 146
 
 En resumen estas 3 funciones hacen lo siguiente :D
 
-<p align-text="center">
+<p align="center">
 <img src="https://steemitimages.com/DQmc4oH8CBMuYwZZxvh8qQRkpNAMgxnS8vs3LT9QNXHh1Yn/image.png">
 </p>
 

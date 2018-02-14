@@ -105,30 +105,30 @@ npm install handlebars --save
 Luego de crear una cuenta en mLab y recibir el correo de confirmación hacemos lo siguiente:
 
 Creamos nuestra BD en Create New en MongoDB Deployment:
-<p align-text="center">
+<p align="center">
     <img src="img/mongo2.png">
 </p>
 
 Luego elegimos a nuestro proveedor en este caso amazon:
 
-<p align-text="center">
+<p align="center">
     <img src="img/mongo3.png">
 </p>
 
 Nombramos a nuestra BD en mi caso lo terminé llamando todo-list-hackspace ya que no me aceptó todo-list :(
-<p align-text="center">
+<p align="center">
     <img src="img/mongo4.png">
 </p>
 
 Luego al final tendremos nuestra BD ya creada:
 
-<p align-text="center">
+<p align="center">
     <img src="img/mongo5.png">
 </p>
 
 Si hacemos click en esta instancia veremos que nos dice como conectarnos con nuestra base datos haciendo uso de nuestro usuario y contraseña:
 
-<p align-text="center">
+<p align="center">
     <img src="img/mongo6.png">
 </p>
 

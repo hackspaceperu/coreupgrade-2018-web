@@ -26,7 +26,7 @@ cd aplicacion
 npm init
 ```
 
-<p align-text="center">
+<p align="center">
 <img src="img/yargs.png">
 </p>
 
@@ -53,7 +53,7 @@ if ( Math.sqrt(ptoX*ptoX + ptoY*ptoY) <= 5) {
 ```
 
 Ahora probamos:
-<p align-text="center">
+<p align="center">
 <img src="img/yargs2.png">
 </p>
 
@@ -106,6 +106,6 @@ else if(command == 'bye'){
 
 Luego hacemos las pruebas de nuestros comandos, y voilá! :D
 
-<p align-text="center">
+<p align="center">
 <img src="img/yargs3.png">
 </p>
