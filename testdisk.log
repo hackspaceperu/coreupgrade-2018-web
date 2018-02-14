@@ -1,0 +1,190 @@
+
+
+Sun Feb 11 11:15:37 2018
+Command line: TestDisk
+
+TestDisk 7.0, Data Recovery Utility, April 2015
+Christophe GRENIER <grenier@cgsecurity.org>
+http://www.cgsecurity.org
+OS: Linux, kernel 4.9.0-5-amd64 (#1 SMP Debian 4.9.65-3+deb9u2 (2018-01-04)) x86_64
+Compiler: GCC 6.2
+ext2fs lib: 1.43.4, ntfs lib: libntfs-3g, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.0
+/dev/sda: LBA, HPA, LBA48, DCO support
+/dev/sda: size       1465149168 sectors
+/dev/sda: user_max   1465149168 sectors
+/dev/sda: native_max 1465149168 sectors
+/dev/sda: dco        1465149168 sectors
+Warning: can't get size for Disk /dev/mapper/control - 0 B - 0 sectors, sector size=512
+Hard disk list
+Disk /dev/sda - 750 GB / 698 GiB - CHS 91201 255 63, sector size=512 - TOSHIBA MQ01ABD075, S/N:63FIS9I9S, FW:AX0A4M
+Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32, sector size=512 - USB Mass Storage Device
+
+Partition table type (auto): Intel
+Disk /dev/sdb - 15 GB / 14 GiB - USB Mass Storage Device
+Partition table type: None
+
+Analyse Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32
+Current partition structure:
+   P Unknown                  0   0  1 15235  63 32   31203328
+
+search_part()
+Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32
+FAT32 at 4/0/1
+FAT1 : 576-4383
+FAT2 : 4384-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-31195135
+sectors : 31195136
+cluster_size : 64
+no_of_cluster : 487296 (2 - 487297)
+fat_length 3808 calculated 3808
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 4/0/1
+     FAT32                    4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+
+Results
+   P FAT32                    4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+
+Hint for advanced users. dmsetup may be used if you prefer to avoid to rewrite the partition table for the moment:
+echo "0 31195136 linear /dev/sdb 8192" | dmsetup create test0
+
+interface_write()
+   P FAT32                    4   0  1 15235  63 32   31195136
+ 
+Write isn't available because the partition table type "None" has been selected.
+Partition table type (auto): Intel
+Disk /dev/sdb - 15 GB / 14 GiB - USB Mass Storage Device
+Partition table type: Intel
+
+Analyse Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32
+Geometry from i386 MBR: head=255 sector=63
+BAD_RS LBA=8192 4162
+FAT32 at 4/0/1
+Info: size boot_sector 31195136, partition 31195136
+FAT1 : 576-4383
+FAT2 : 4384-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-31195135
+sectors : 31195136
+cluster_size : 64
+no_of_cluster : 487296 (2 - 487297)
+fat_length 3808 calculated 3808
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=8 nbr=2
+get_geometry_from_list_part_aux head=16 nbr=2
+get_geometry_from_list_part_aux head=32 nbr=2
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=128 nbr=2
+get_geometry_from_list_part_aux head=255 nbr=1
+Current partition structure:
+Warning: number of heads/cylinder mismatches 255 (FAT) != 64 (HD)
+Warning: number of sectors per track mismatches 63 (FAT) != 32 (HD)
+ 1 P FAT32 LBA                4   0  1 15235  63 32   31195136
+
+Warning: Bad ending sector (CHS and LBA don't match)
+No partition is bootable
+
+search_part()
+Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32
+FAT32 at 4/0/1
+FAT1 : 576-4383
+FAT2 : 4384-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-31195135
+sectors : 31195136
+cluster_size : 64
+no_of_cluster : 487296 (2 - 487297)
+fat_length 3808 calculated 3808
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 4/0/1
+     FAT32 LBA                4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=8 nbr=2
+get_geometry_from_list_part_aux head=16 nbr=2
+get_geometry_from_list_part_aux head=32 nbr=2
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=128 nbr=2
+get_geometry_from_list_part_aux head=255 nbr=1
+Warning: the current number of heads per cylinder is 64 but the correct value may be 128.
+
+Results
+   * FAT32 LBA                4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+
+Hint for advanced users. dmsetup may be used if you prefer to avoid to rewrite the partition table for the moment:
+echo "0 31195136 linear /dev/sdb 8192" | dmsetup create test0
+
+interface_write()
+ 1 * FAT32 LBA                4   0  1 15235  63 32   31195136
+
+search_part()
+Disk /dev/sdb - 15 GB / 14 GiB - CHS 15236 64 32
+FAT32 at 4/0/1
+FAT1 : 576-4383
+FAT2 : 4384-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-31195135
+sectors : 31195136
+cluster_size : 64
+no_of_cluster : 487296 (2 - 487297)
+fat_length 3808 calculated 3808
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 4/0/1
+     FAT32 LBA                4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+FAT32 at 4/0/7
+FAT1 : 576-4383
+FAT2 : 4384-8191
+start_rootdir : 8192 root cluster : 2
+Data : 8192-31195135
+sectors : 31195136
+cluster_size : 64
+no_of_cluster : 487296 (2 - 487297)
+fat_length 3808 calculated 3808
+heads/cylinder 255 (FAT) != 64 (HD)
+sect/track 63 (FAT) != 32 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 4/0/7
+     FAT32 LBA                4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=8 nbr=2
+get_geometry_from_list_part_aux head=16 nbr=2
+get_geometry_from_list_part_aux head=32 nbr=2
+get_geometry_from_list_part_aux head=64 nbr=2
+get_geometry_from_list_part_aux head=128 nbr=2
+get_geometry_from_list_part_aux head=255 nbr=1
+Warning: the current number of heads per cylinder is 64 but the correct value may be 128.
+
+Results
+   * FAT32 LBA                4   0  1 15235  63 32   31195136
+     FAT32, blocksize=32768, 15 GB / 14 GiB
+
+Hint for advanced users. dmsetup may be used if you prefer to avoid to rewrite the partition table for the moment:
+echo "0 31195136 linear /dev/sdb 8192" | dmsetup create test0
+
+interface_write()
+ 1 * FAT32 LBA                4   0  1 15235  63 32   31195136
+write!
+
+write_mbr_i386: starting...
+write_all_log_i386: starting...
+No extended partition
+You will have to reboot for the change to take effect.
+SIGINT detected! TestDisk has been killed.

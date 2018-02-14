@@ -4,11 +4,11 @@
 ***
  <p align="center"> <img src="img\logo.png"></p>
 
-<h1 style="text-<align:center"> Introducción al desarrollo Frontend</h1>
+# Introducción al Desarrollo Web
 
 Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducción práctica a todas las herramientas esenciales que se necesita para construir sitios web reales, ponte cómod@ y empezamos.
 
-**Semana 1**
+### Semana 1
 
 + [Conceptos básicos.][1]
 + [Configurando entorno de trabajo.][2]
@@ -22,30 +22,56 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 [3]: sem1_introduccion.md
 [4]: sem1_reto1.md
 
-**Semana 2**
-
+### Semana 2
+#### Frontend
 + Iniciando con CSS
-    * Incluir estilos CSS
-    * Selectores, pseudoclase y pseudoelementos.
-+ Reto 2.
+    * [Incluir estilos CSS.][5]
+    * [Concepto de Cajas.][6]
+    * [Selectores, pseudoclase y pseudoelementos.][7]
++ [Reto 2 - Frontend.][8]
 
+[5]: sem2_introduccion.md
+[6]: sem2_cajas.md
+[7]: sem2_selectores.md
+[8]: sem2_reto2.md
 
-[1]: sem2_introcss.md
-[2]: sem2_reto2.md
+#### Backend
++ [Introducción a Node.js][9]
++ [Módulos][10]
++ [Sistema de Archivos][11]
++ [Reto 2 - Backend.][12]
 
-**Semana 3**
+[9]: sem2b_introduccion.md
+[10]: sem2b_modulos.md
+[11]: sem2b_archivos.md
+[12]: sem2b_reto3.md
 
-+ [Introducción a Node.js][1]
-+ [Módulos][2]
-+ [Sistema de Archivos][3]
-+ [Reto 3][4]
+### Semana 3
+#### Frontend
++ [Material Design][13]
++ [Materialize][14]
++ [Grid System][15]
++ [Ejemplos][16]
++ [Reto 3 - Frontend.][17]
 
-[1]: sem3_introduccion.md
-[2]: sem3_modulos.md
-[3]: sem3_archivos.md
-[4]: sem3_reto3.md
+[13]: sem3_material.md
+[14]: sem3_materialize.md
+[15]: sem3_gridsystem.md
+[16]: sem3_ejemplos.md
+[17]: sem3_reto4.md
 
-**Semana 4**
+#### Backend
++ [Web Server][13]
++ [Express][14]
++ [Node & MongoDB][15]
++ [Reto 3 - Backend.][16]
+
+[18]: sem3b_webserver.md
+[19]: sem3b_express.md
+[20]: sem3b_mongo.md
+[21]: sem3b_reto5.md
+
+### Semana 4
 
 + [Web Server][1]
 + [Express][2]
