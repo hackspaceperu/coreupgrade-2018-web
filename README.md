@@ -71,6 +71,10 @@ Si deseas empezar tu camino ahora, aqu√≠ es donde todo comienza! Una introducci√
 
 
 #### Recursos Adicionales
++ [Yargs][20]
++ [FS][21]
++ [Arrays][22]
+
 [20]: yargs.md
 [21]: fs.md
 [22]: arrays.md
