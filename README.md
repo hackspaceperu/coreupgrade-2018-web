@@ -63,21 +63,23 @@ Si deseas empezar tu camino ahora, aqu√≠ es donde todo comienza! Una introducci√
 #### Backend
 + [Web Server][18]
 + [Express][19]
-+ Node & MongoDB
-+ Reto 3 - Backend.
++ [Node & MongoDB][20]
++ [Reto 3 - Backend][21]
 
 [18]: sem4_webserver.md
 [19]: sem4_express.md
+[20]: sem4_mongo.md
+[21]: sem4_reto4.md
 
 
 #### Recursos Adicionales
-+ [Yargs][20]
-+ [FS][21]
-+ [Arrays][22]
++ [Yargs][22]
++ [FS][23]
++ [Arrays][24]
 
-[20]: yargs.md
-[21]: fs.md
-[22]: arrays.md
+[22]: yargs.md
+[23]: fs.md
+[24]: arrays.md
 
 
 
