@@ -10,7 +10,7 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 
 ### Semana 1
 
-+ [Conceptos básicos.][1]
++ [Conceptos básicos.][1] 
 + [Configurando entorno de trabajo.][2]
 + [Iniciando con HTML][3]
     * Estructura básica de una web.
@@ -64,35 +64,24 @@ Si deseas empezar tu camino ahora, aquí es donde todo comienza! Una introducci�
 + [Web Server][18]
 + [Express][19]
 + [Node & MongoDB][20]
-+ [Reto 3 - Backend][21]
++ [Reto 3 - Backend.][21]
 
-[18]: sem4_webserver.md
-[19]: sem4_express.md
-[20]: sem4_mongo.md
-[21]: sem4_reto4.md
+[18]: sem3b_webserver.md
+[19]: sem3b_express.md
+[20]: sem3b_mongo.md
+[21]: sem3b_reto5.md
 
+### Semana 4
 
-#### Recursos Adicionales
-+ [Yargs][22]
-+ [FS][23]
-+ [Arrays][24]
++ Debes entregar todos los retos anteriores, ya sea de Backend o Frontend (es necesario solo uno de los dos), para que accedas a las sesiones presenciales.
 
-[22]: yargs.md
-[23]: fs.md
-[24]: arrays.md
-
-
-
-#### Referencias bibliográficas
-    * https://www.theodinproject.com/courses/html5-and-css3
-    * https://developer.mozilla.org/es/docs/Learn/HTML
-    * https://www.theodinproject.com/courses/web-development-101
-    * https://www.bitdegree.org/learn/web-fundamentals/
-
-
+        Referencias bibliográficas
+            * https://www.theodinproject.com/courses/html5-and-css3
+            * https://developer.mozilla.org/es/docs/Learn/HTML
+            * https://www.theodinproject.com/courses/web-development-101
+            * https://www.bitdegree.org/learn/web-fundamentals/
 
 ## Developed by
 
 * Isabel Luna, Developer @HackSpacePeru
-* Gerson Garrido, Head Trainer @HackSpacePeru
-* Inspirado en TheOdinProject.
+* Inspirado en TheOdinProject. 
